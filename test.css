@@ -49,3 +49,9 @@ li{
 	padding:10px 0px;
 	margin-bottom:5px;
 }
+
+span{
+	cursor: pointer;
+	position: relative;
+	float:right;
+}
