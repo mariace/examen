@@ -42,10 +42,11 @@ div.gallery {
     float: left;
     width: 350px;
 	border-radius:10px;
+	border-color:#38211C;
 }
 
 div.gallery:hover {
-    border: 1px solid #777;
+    border: 5px solid #777;
 	border-color:#38211C;
 }
 
